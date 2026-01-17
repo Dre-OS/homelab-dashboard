@@ -5,6 +5,7 @@ import App from './App.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
+    // PLACEHOLDER_FOR_CODE_INSERTION <Test />
     <App />
   </StrictMode>,
 )
